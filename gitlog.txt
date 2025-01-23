@@ -1,0 +1,12 @@
+c83a817 Merge pull request #1 from lotus-pad/feature-lotus-pad
+995ec9c new file from lotus-pad
+5e61569 merge branches
+f9fb9a7 second change to file_1
+f8ad88a add changes to new_features file
+58e07c3 add empty file
+8a9f5d6 add api-keys.txt
+d7324cb add .gitignore
+4facb1e add Readme file
+c568720 first change to file_2
+841fba3 first change to file_1
+a111f62 create new files
