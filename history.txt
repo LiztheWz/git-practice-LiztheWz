@@ -1,0 +1,279 @@
+  109  brew install git
+  110  git --version
+  111  $ brew install git
+  112  brew install git
+  113  sudo port install git
+  114  git --version
+  115  brew install git
+  116  git --version
+  117  git config --global use.name "Liz Mendoza"
+  128  brew install git
+  129  brew install git
+  130  git --version
+  131  git --version.
+  132  git --version
+  136  git --version
+  137  git config --global use.name "Liz Mendoza"
+  138  git config --global user.email "lizeth.mendoza0105@gmail.com"
+  139  git config --global core.editor "code --wait"
+  140  git config --global init.defaultBranch main
+  143  git init
+  144  git --version
+  145  brew install git
+  146  git clone https://github.com/esnt/another-stat386-theme.git
+  149  git remote remove origin
+  152  git remote remove origin
+  153  git remote add origin https://github.com/LiztheWz/MyBlog.git
+  154  git branch -M main
+  155  git push -u origin main
+  156  git push -u origin main
+  157  git push -u origin main
+  158  git push -u origin main
+  159  git push -u origin main
+  160  git push -u origin main
+  161  git remote -v
+  163  git clone https://github.com/esnt/another-stat386-theme.git
+  165  git remote remove origin
+  166  git remote add origin https://github.com/LiztheWz/MyBlog.git
+  167  git branch -M main
+  168  git push -u origin main
+  182  mdir gitPractice
+  183  mkdir gitPractice
+  185  cd gitPractice/
+  186  git init
+  187  git status
+  189  git status
+  192  git status
+  193  git add new_file.txt
+  194  git status
+  195  git commit -m 
+  196  git commit -m 'first commit'
+  197  git status
+  199  git status
+  200  git add .
+  201  git status
+  202  git commit -m 'Update new_file with info'
+  203  git status
+  204  git switch -
+  205  git status
+  207  git log
+  209  git status
+  210  git add file_1.txt
+  213  git status
+  214  git add file_1.txt file_2.txt 
+  215  git status
+  216  git commit -m 'create new files'
+  217  git status
+  218  git log
+  219  git add .
+  220  git status
+  221  git add file_1.txt 
+  222  git commit -m 'first change to file_1'
+  223  git add file_2.txt
+  224  git commit -m 'first change to file_2'
+  225  git log
+  230  mkdir git-practice-LiztheWz
+  231  cd git-practice-LiztheWz/
+  232  git init
+  234  git status
+  237  git status
+  238  git add .
+  239  git status
+  240  git commit -m 
+  241  git commit -m 'create new files'
+  242  git status
+  243  git log
+  244  git status
+  245  git add file_1.txt 
+  246  git commit -m 'first change to file_1'
+  247  git add file_2.txt 
+  248  git commit -m 'first change to file_2'
+  249  git log
+  251  git status
+  252  git add .
+  253  git status
+  254  git commit -m 'add Readme file'
+  255  git status
+  256  git log
+  257  touch .gitignore
+  258  git status
+  259  git add .
+  260  git commit -m 'add .gitignore'
+  261  git status
+  263  git status
+  264  git status
+  265  git add .
+  266  git commit -m 'add api-keys.txt'
+  267  git log
+  268  git branch
+  269  git branch features
+  270  git branch
+  271  git switch features
+  272  git branch
+  273  git log
+  275  git add .
+  276  git commit -m 'add empty file'
+  277  git status
+  278  git log
+  279  git branch
+  280  git commit -m 'add changes to new_features file'
+  281  git status
+  282  git add .
+  283  git commit -m 'add changes to new_features file'
+  284  git status
+  285  git switch master
+  286  git branch
+  288  git add .
+  289  git commit -m 'second change to file_1'
+  290  git status
+  291  git merge features
+  292  git branch
+  293  git merge features
+  294  git status
+  295  git commit
+  296  git commit -m 
+  297  git commit -m 'merge branches'
+  298  git status
+  299  git log
+  300  git branch
+  303  git clone git@github.com:esnt/another-stat386-theme.git
+  307  git remote add origin git@github.com:LiztheWz/MyBlog.git
+  308  git remote set-url origin git@github.com:LiztheWz/MyBlog.git
+  309  git commit -m 'first commit'
+  310  git push
+  311  git status
+  312  git add .
+  313  git commit -m 'changes in config and about'
+  314  git status
+  315  git push
+  316  git status
+  326  cd git-practice-LiztheWz/
+  327  git log
+  328  git branch
+  329  git branch -d features
+  330  git log
+  331  git status
+  332  git branch
+  333  git remote add origin git@github.com:LiztheWz/git-practice-LiztheWz.git
+  334  git push -u origin main
+  335  git remote add origin git@github.com:LiztheWz/git-practice-LiztheWz.git
+  336  git push -u origin main
+  337  git push -u origin master
+  340  git another-stat386-theme/
+  341  git branch
+  342  git log
+  343  git add .
+  344  git log
+  345  git status
+  346  git status
+  347  git rm - cached nestrepo
+  348  git rm -cached nestrepo
+  351  git rm - cached nestrepo
+  352  git rm --cached nestrepo
+  355  git add .
+  356  git commit "updated config file"
+  357  git commit 'updated config file'
+  359  git log
+  360  git status
+  361  git push -u origin main
+  362  git push -u origin master
+  363  git push -u origin main
+  366  git remote add origin https://github.com/esnt/another-stat386-theme.git
+  368  git clone https://github.com/esnt/another-stat386-theme.git
+  370  git remote add origin https://github.com/LiztheWz/MyBlog.git
+  371  git remote add origin git@github.com:LiztheWz/MyBlog.git
+  372  git remote -v
+  373  git remote set-url origin https://github.com/LiztheWz/MyBlog.git
+  374  git remote -v
+  375  git push -u origin master
+  376  git push -u origin main
+  377  git push -u origin main
+  378  git remote set-url origin git@github.com:LiztheWz/MyBlog.git
+  379  git push -u origin main
+  380  git status
+  381  git add _config.yml 
+  382  git status
+  383  git commit -m "updated config file"
+  384  git status
+  385  git push -u origin main
+  392  git status
+  393  git add _posts/2025-01-17-new-post.md 
+  394  git status
+  395  git commit -m "creating a new post"
+  396  git push -u origin main
+  398  git --version
+  400  brew install git
+  402  git --version
+  404  git --version
+  405  sudo mv /usr/bin/git /usr/bin/git-apple
+  406  /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
+  408  brew install git
+  409  /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
+  412  git --version
+  413  git install
+  414  brew install git
+  418  cd git-practice-LiztheWz/
+  421  git status
+  422  git status
+  423  git add api-keys.txt 
+  424  git status
+  425  git push -u origin main
+  426  git remote add origing git@github.com:LiztheWz/git-practice-LiztheWz.git
+  427  git push -u origin main
+  428  git status
+  429  git status
+  430  git add .DS_Store 
+  431  git commit .DS_Store 
+  432  git push -u origin main
+  433  git remote add origing git@github.com:LiztheWz/git-practice-LiztheWz.git
+  434  git push -u origin main
+  435  git status
+  436  git commit .DS_Store 
+  446  cd git-practice-LiztheWz/
+  448  git status
+  449  git log
+  451  cd git-practice-LiztheWz/
+  452  git log one-line
+  453  git log -line
+  454  git log
+  457  git clone git@github.com:LiztheWz/git-practice-lotus-pad.git
+  459  cd git-practice-lotus-pad/
+  461  git branch
+  462  git branch feature-LiztheWz
+  463  git branch
+  465  git status
+  466  git add Liz-file.txt 
+  467  git commit -m "creating a new file"
+  468  git status
+  469  git log
+  470  git push origin feature-LiztheWz
+  471  git branch
+  473  git ls
+  475  git branch
+  476  git switch feature-LiztheWz
+  477  git branch
+  479  git add new-Liz-file.txt 
+  480  git commit -m "new file from Liz"
+  481  git status
+  482  git remove .DS_Store 
+  483  git status
+  484  git add .DS_Store 
+  485  git status
+  486  git commit .
+  487  git status
+  488  git rm .DS_Store 
+  489  git statsu
+  490  git status
+  491  git status
+  492  git push origin feature-LiztheWz
+  501  cd git-practice-LiztheWz/
+  502  git pull
+  504  git log --oneline > gitlog.txt
+  505  history 0 | grep git > history.txt
+  506  git status
+  507  git add .
+  508  git commit -m "adding gitlog and history files"
+  509  git status
+  510  git push -u origin main
+  511  git push -u origin
+  512  history | grep git > history.txt
